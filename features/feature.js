@@ -1,2 +1,2 @@
 console.log('Feature 3');
-console.log('conflict 2');
+console.log('merge conflict 3');
